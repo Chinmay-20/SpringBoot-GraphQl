@@ -70,7 +70,7 @@ Example GraphQL Query
   }
 }
 
-## GraphQL Scehma
+## GraphQL Schema
 The GraphQL schema is defined in the schema.graphqls file. It contains type definitions and queries for the inventory data.
 
 
