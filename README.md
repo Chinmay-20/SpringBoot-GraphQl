@@ -9,8 +9,7 @@ This project is an Inventory Service application developed using Spring Boot and
 - [Setup](#setup)
 - [Usage](#usage)
 - [GraphQL Schema](#graphql-schema)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -52,7 +51,7 @@ mvn clean install
 mvn spring-boot:run
 
 
-### Usage
+## Usage
 
 REST API
 The application provides REST endpoints to manage products. You can access the API documentation (e.g., Swagger) if configured.
@@ -71,7 +70,7 @@ Example GraphQL Query
   }
 }
 
-### GraphQL Scehma
+## GraphQL Scehma
 The GraphQL schema is defined in the schema.graphqls file. It contains type definitions and queries for the inventory data.
 
 
